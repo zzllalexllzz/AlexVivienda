@@ -30,8 +30,10 @@ public class Vivienda
 		this.estado = estado;
 		this.propietario = propietario;
 	}
-
-	/*----------------------------------------------*/
+	/**
+	 * ESTOS SON METODOS GETTERS Y SETTERS
+	 * @return
+	 */
     public double getPrecio() {
         return precio;
     }
